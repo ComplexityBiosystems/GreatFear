@@ -3,7 +3,7 @@
 Code to reproduce the analysis and the figures for the paper "Epidemiology of the Great Fear of 1789 in France" by S. Zapperi et al. (submitted)
 
 Intstructions: 
-The code is reported as two jupyther notebook running python3.9
+The code is reported as two jupyther notebook running python3.9. Dowload the code and load it within jupyter. The Data folder should be populated with SI datafiles.
 
 Package required:
 
@@ -26,3 +26,6 @@ scipy (1.10.1)
 shapely (2.0.1)
 
 fiona (1.9.4)
+
+networkx (3.2.1)
+
