@@ -26,3 +26,6 @@ scipy (1.10.1)
 shapely (2.0.1)
 
 fiona (1.9.4)
+
+networkx (3.2.1)
+
