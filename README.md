@@ -6,13 +6,23 @@ Intstructions:
 The code is reported as two jupyther notebook running python3.9
 
 Package required:
+
 pandas (1.5.3)
+
 numpy (1.21.5)
+
 matplotlib (3.5.1)
+
 seaborn (1.11.2)
+
 geopandas (0.14.3)
+
 statannotations (0.6.0)
+
 statsmodels (0.13.2)
+
 scipy (1.10.1)
+
 shapely (2.0.1)
+
 fiona (1.9.4)
