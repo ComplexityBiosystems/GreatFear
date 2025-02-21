@@ -1,5 +1,7 @@
 # GreatFear
 
+(c) Stefano Zapperi - 2025
+
 Code to reproduce the analysis and the figures for the paper "Epidemiology of the Great Fear of 1789 in France" by S. Zapperi et al. (submitted)
 
 Intstructions: 
